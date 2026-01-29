@@ -1,0 +1,6 @@
+{'deflection': 0.11551195771480324, 'material': 'Aluminium', 'length': 2.0, 'weight': 0.9500176184455532, 'diameter': 0.03, 'thickness': 0.002, 'elasticity': 70000000000.0}
+{'deflection': 0.04555827149459738, 'material': 'Steel', 'length': 2.0, 'weight': 2.7620882610361455, 'diameter': 0.03, 'thickness': 0.002, 'elasticity': 200000000000.0}
+{'deflection': 0.02622243480350485, 'material': 'Carbon-Fiber', 'length': 2.0, 'weight': 0.5629734035232907, 'diameter': 0.03, 'thickness': 0.002, 'elasticity': 300000000000.0}
+{'deflection': 0.008660052106993912, 'material': 'Aluminium', 'length': 2.0, 'weight': 3.800070473782213, 'diameter': 0.06, 'thickness': 0.004, 'elasticity': 70000000000.0}
+{'deflection': 0.00431328981105193, 'material': 'Steel', 'length': 2.0, 'weight': 11.048353044144582, 'diameter': 0.06, 'thickness': 0.004, 'elasticity': 200000000000.0}
+{'deflection': 0.0018380899924779364, 'material': 'Carbon-Fiber', 'length': 2.0, 'weight': 2.251893614093163, 'diameter': 0.06, 'thickness': 0.004, 'elasticity': 300000000000.0}
